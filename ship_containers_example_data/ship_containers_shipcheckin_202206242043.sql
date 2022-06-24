@@ -1,0 +1,4 @@
+INSERT INTO public.ship_containers_shipcheckin (id,arrival,departure,harbour_id,ship_id) VALUES
+	 ('57bad8aa-adfd-400e-a5d8-b685db8af86f'::uuid,'2022-05-23 21:05:09+02','2022-05-23','905629bf-cdf8-4254-a70d-9729650441c1'::uuid,'4fa22316-11cd-492f-9297-8c049de1ebf0'::uuid),
+	 ('f9b9a686-d82b-4829-b31e-8621f127b334'::uuid,'2022-05-23 21:05:30+02','2022-05-23','905629bf-cdf8-4254-a70d-9729650441c1'::uuid,'7f50afc8-493e-4aa7-83ec-54e41c1c4382'::uuid),
+	 ('0aa0487e-4396-4b6d-b499-7981e894addd'::uuid,'2022-05-23 21:05:54+02','2021-05-23','5120a7de-acf1-42e3-ba62-d9d0b028bbb8'::uuid,'978c95d4-74a3-48ed-9844-38770d7cec9e'::uuid);

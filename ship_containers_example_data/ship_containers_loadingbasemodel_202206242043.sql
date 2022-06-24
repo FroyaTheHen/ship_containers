@@ -1,0 +1,5 @@
+INSERT INTO public.ship_containers_loadingbasemodel (id,created_at,updated_at,shipment_id,responsible_employee_id) VALUES
+	 ('b20c3549-3c51-4f0c-b895-a99c279caea1'::uuid,'2022-05-23 21:03:20.153107+02','2022-05-23 21:03:20.153107+02','9f1f7352-218e-4b55-945a-fbd3bf721244'::uuid,'505af9c4-9b9d-49c7-b21a-aa6c6cc2f1a6'::uuid),
+	 ('5cb1c0a9-2e90-4700-bf0c-6b32fa0e9a60'::uuid,'2022-05-23 21:03:25.797491+02','2022-05-23 21:03:25.797491+02','7e17a3c4-08cd-4189-8c0e-9921ede50da0'::uuid,'505af9c4-9b9d-49c7-b21a-aa6c6cc2f1a6'::uuid),
+	 ('a5175f69-4d4c-4663-aff7-848bd86ab109'::uuid,'2022-05-23 21:04:05.359594+02','2022-05-23 21:04:05.359594+02','7d0294f8-b213-4ecc-95ca-820c01717d18'::uuid,'adbd940c-4e38-49f6-a928-5635b4abe20f'::uuid),
+	 ('ec2aed99-1da8-490d-85ff-a7bd94c912ed'::uuid,'2022-05-23 21:04:07.320148+02','2022-05-23 21:04:07.320148+02','9f1f7352-218e-4b55-945a-fbd3bf721244'::uuid,'bb7c322c-fec4-4a30-a01f-e6274c4a7fcf'::uuid);
